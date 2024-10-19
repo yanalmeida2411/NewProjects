@@ -1,0 +1,4 @@
+Sou o Yan,Desenvolvedor Web Front-end.
+Neste meu primeiro projeto,coloquei em prática algumas técnicas que aprendi utilizando HTML,CSS e JavaScript.
+Simulei um Login e Senha na tela "cadastro.html", cujo login e senha são apenas para teste (ambos são admin), se o login ou a senha for diferente,não terá como prosseguir
+Caso o login e a senha estejam corretos (Login Admin e Senha Admin), o usuário será redirecionado ao To Do List e poderá manter suas tarefas salvas pelo Local Storage.
